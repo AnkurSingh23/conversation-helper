@@ -7,6 +7,10 @@
 
 A lightweight Streamlit application for simulating customer support conversations, evaluating agent replies, and generating real-time quality feedback.
 
+## Live Demo
+
+[Open the deployed app](https://conversation-apper-8qc4uvcrvbewzefbgqmn4z.streamlit.app/)
+
 ## Overview
 
 Conversation Helper is a rule-based conversation monitoring prototype designed to help teams review support interactions in a simple, visual way. Users can add customer and agent messages, inspect sentiment, and see coaching suggestions for improving the latest agent response.
