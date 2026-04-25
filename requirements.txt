@@ -1,2 +1,5 @@
-streamlit
-textblob
+# Core UI
+streamlit>=1.31,<2.0
+
+# Sentiment analysis
+textblob>=0.18.0,<0.19
